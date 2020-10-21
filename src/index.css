@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-  background-image: url(./backgroundWhite.png);
+  background-image: url(./images/backgroundWhite.png);
   object-fit: contain;
   width: 100%;
 }
