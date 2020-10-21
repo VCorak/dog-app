@@ -12,9 +12,8 @@ body {
 }
 
 .container {
-  background-image: url(./images/backgroundWhite.png);
-  object-fit: contain;
-  width: 100%;
+  background-image: url(./images/background.png);
+  
 }
 
 .app {
